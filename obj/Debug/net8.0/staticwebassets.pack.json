@@ -1,28 +1,24 @@
 {
   "Files": [
     {
-      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TodoList.bundle.scp.css",
+      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\JoshToDo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TodoList.bundle.scp.css",
       "PackagePath": "staticwebassets\\TodoList.bundle.scp.css"
     },
     {
-      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\app.css",
+      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\JoshToDo\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\JoshToDo\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\JoshToDo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\favicon.png",
+      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\JoshToDo\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
-    },
-    {
-      "Id": "c:\\Users\\joshm\\JoshDev\\TodoList\\ToDo\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TodoList.Microsoft.AspNetCore.StaticWebAssets.props",
